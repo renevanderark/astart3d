@@ -12,3 +12,4 @@ Buttons:
 - mouse: click and drag to reposition target marker
 
 .. image:: https://raw.github.com/renevanderark/astart3d/master/screenshot.gif
+.. image:: https://raw.github.com/renevanderark/astart3d/master/Screenshot.png
