@@ -11,4 +11,4 @@ Buttons:
 - space: start/stop walking
 - mouse: click and drag to reposition target marker
 
-.. image:: https://github.com/renevanderark/astart3d/raw/master/img/screenshot.gif
+.. image:: https://raw.github.com/renevanderark/astart3d/master/screenshot.gif
