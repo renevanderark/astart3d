@@ -4,7 +4,7 @@ objects	= datastruct.o geo.o image.o grid.o person.o main.o
 all: a.out
 
 a.out: $(objects)
-	g++ -o a.out $(objects) -lGL -lGLEW -lglut
+	g++ -o a.out $(objects) -lGL -lGLU -lGLEW -lglut
 	rm $(objects)
 
 $(objects): $(sources)
